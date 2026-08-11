@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Oi gatinha te amo visse, lindona</h1>
+    return <h1>Peixoto é o homem mais homossexual do universo</h1>
 }
 
 export default Home;
